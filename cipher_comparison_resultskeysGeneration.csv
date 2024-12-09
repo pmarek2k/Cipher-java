@@ -1,0 +1,13 @@
+Algorithm,Operation,Data Size,Time (ns)
+AES,Key Generation,1,15.4827
+RSA,Key Generation,1,254.0336
+3DES,Key Generation,1,0.4786
+AES,Key Generation,10,0.112
+RSA,Key Generation,10,4305.7342
+3DES,Key Generation,10,0.1944
+AES,Key Generation,100,0.9191
+RSA,Key Generation,100,64453.3596
+3DES,Key Generation,100,0.9285
+AES,Key Generation,1000,4.5014
+RSA,Key Generation,1000,610501.1948
+3DES,Key Generation,1000,4.4143
